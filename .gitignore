@@ -1,0 +1,8 @@
+*.d
+*.o
+*.txt
+main
+makefile
+test.sh
+.tags
+Makefile
